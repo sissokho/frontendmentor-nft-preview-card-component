@@ -1,0 +1,31 @@
+{
+    "name": "frontendmentor-nft-preview-card-component",
+    "version": "1.0.0",
+    "description": "Frontend Mentor challenge: nft preview card component",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sissokho/frontendmentor-nft-preview-card-component.git"
+    },
+    "keywords": [
+        "frontendmentor",
+        "challenge",
+        "card",
+        "component"
+    ],
+    "author": "Mouhamadou Moustapha SISSOKHO",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/sissokho/frontendmentor-nft-preview-card-component/issues"
+    },
+    "homepage": "https://github.com/sissokho/frontendmentor-nft-preview-card-component#readme",
+    "devDependencies": {
+        "autoprefixer": "^10.4.0",
+        "postcss": "^8.4.1",
+        "tailwindcss": "^2.2.19",
+        "vite": "^2.6.14"
+    }
+}
