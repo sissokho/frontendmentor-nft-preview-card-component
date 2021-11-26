@@ -7,7 +7,7 @@ module.exports = {
             'desktop': '1440px',
         },
         colors: {
-            white: 'hsl(0, 0 %, 100 %)',
+            white: 'hsl(0, 0%, 100%)',
             blue: 'hsl(215, 51%, 70%)',
             cyan: 'hsl(178, 100%, 50%)',
             'dark-blue': {
