@@ -27,7 +27,12 @@ module.exports = {
         extend: {},
     },
     variants: {
-        extend: {},
+        extend: {
+            flex: ['group-hover'],
+            justifyContent: ['group-hover'],
+            alignItems: ['group-hover'],
+            display: ['group-hover'],
+        },
     },
     plugins: [],
 }
