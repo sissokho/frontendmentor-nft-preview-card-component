@@ -5,7 +5,8 @@
     "main": "index.js",
     "scripts": {
         "dev": "vite",
-        "build": "vite build"
+        "build": "vite build",
+        "deploy": "npm run build && gh-pages -d dist"
     },
     "repository": {
         "type": "git",
@@ -25,6 +26,7 @@
     "homepage": "https://github.com/sissokho/frontendmentor-nft-preview-card-component#readme",
     "devDependencies": {
         "autoprefixer": "^10.4.0",
+        "gh-pages": "^3.2.3",
         "postcss": "^8.4.1",
         "tailwindcss": "^2.2.19",
         "vite": "^2.6.14"
