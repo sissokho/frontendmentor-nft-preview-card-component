@@ -1,6 +1,5 @@
 module.exports = {
     content: ["./index.html"],
-    darkMode: false, // or 'media' or 'class'
     theme: {
         screens: {
             mobile: "375px",
