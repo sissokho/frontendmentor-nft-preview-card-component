@@ -25,10 +25,10 @@
     },
     "homepage": "https://github.com/sissokho/frontendmentor-nft-preview-card-component#readme",
     "devDependencies": {
-        "autoprefixer": "^10.4.0",
+        "autoprefixer": "^10.4.14",
         "gh-pages": "^3.2.3",
         "postcss": "^8.4.1",
-        "tailwindcss": "^2.2.19",
-        "vite": "^2.6.14"
+        "tailwindcss": "^3.3.2",
+        "vite": "^4.4.3"
     }
 }
