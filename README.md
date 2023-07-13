@@ -1,43 +1,33 @@
-# Frontend Mentor - NFT preview card component solution
+![](./design/desktop-preview.jpg)
+
+<h1 align="center">
+Frontend Mentor - NFT preview card component solution
+</h1>
+
+<div align="center">
+  <h3>
+    <a href="https://sissokho.github.io/frontendmentor-nft-preview-card-component">
+      Live Demo
+    </a>
+  </h3>
+</div>
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
+This was built using HTML and Tailwind CSS. Vite is used for the development environment
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Built with](#built-with)
-- [Author](#author)
+## Getting Started.
 
-## Overview
+-   To run the project locally, first install the dependencies:
 
-### The challenge
+```bash
+npm install
+```
 
-Users should be able to:
+-   Next, start the Vite development server:
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+```bash
+npm run dev
+```
 
-### Screenshot
-
-![](./images/desktop-screenshot.jpg)
-
-### Links
-
-- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-component-using-tailwindcss-and-flexbox-VtQORvJOf](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-tailwindcss-and-flexbox-VtQORvJOf)
-- Live Site URL: [https://sissokho.github.io/frontendmentor-nft-preview-card-component/](https://sissokho.github.io/frontendmentor-nft-preview-card-component/)
-
-## Built with
-
-- Semantic HTML5 markup
-- Tailwindcss
-- Flexbox
-- Mobile-first workflow
-
-## Author
-
-- Frontend Mentor - [@sissokho](https://www.frontendmentor.io/profile/sissokho)
-- Twitter - [@mm_sissokho](https://twitter.com/mm_sissokho)
-- Linkedin - [ Mouhamadou Moustapha SISSOKHO ](https://www.linkedin.com/in/mouhamadou-moustapha-sissokho-548a55125/)
+The code lives in the `index.html` folder.
