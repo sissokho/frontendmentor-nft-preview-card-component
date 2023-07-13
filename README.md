@@ -16,7 +16,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 This was built using HTML and Tailwind CSS. Vite is used for the development environment
 
-## Getting Started.
+## Getting Started
 
 -   To run the project locally, first install the dependencies:
 
@@ -30,4 +30,4 @@ npm install
 npm run dev
 ```
 
-The code lives in the `index.html` folder.
+The code lives in the `index.html` file.
